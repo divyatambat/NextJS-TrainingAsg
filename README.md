@@ -1,2 +1,0 @@
-NextJS training assignments
-
